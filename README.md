@@ -5,7 +5,7 @@ Overview
 
 Initial Setup
 
-  	1. Download and install [Python] (https://www.python.org/)
+  	1. Download and install Python (https://www.python.org/)
 
 Usage
 
