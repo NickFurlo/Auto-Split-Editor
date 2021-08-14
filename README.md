@@ -30,7 +30,9 @@ Initial Setup
 Usage
 
 	1. Run the script. In windows go to the folder with the script, right click in the folder while holding shift then 
-	click "run powershell window here". Then run 'Python Auto-Split-Editor.py' in powershell. 
+	   click "run powershell window here". Then run 'Python Auto-Split-Editor.py' in powershell. 
+	3. The first time the script is run, it will create a folder called 'images' if one does not already exist. This is where you put
+	   images you want to rename. 
   	2. Select 1 for editing thresholds. 
   	3. Enter threshold values one at a time. S to skip, Q to quit. Enter thresholds as integers between 1 and 99. 
 
